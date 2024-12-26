@@ -29,7 +29,7 @@ Thanks for visiting my GitHub! Feel free to reach out or explore my repositories
 - 👋 Hi, I’m @sagnikishere
 - 👀 I’m interested in 
 - 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on 
+- 💞 I’m looking to
 - 📫 How to reach me 
 
 
