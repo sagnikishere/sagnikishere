@@ -26,7 +26,7 @@ Participated in hackathons including Hacktonix and internal Smart India Hackatho
 
 
 Thanks for visiting my GitHub! Feel free to reach out or explore my repositories. Let’s build something amazing together! 🚀
-- 👋 Hi, I’m @sagnikishere
+- 👋  I’m @sagnikishere
 - 👀 I’m interested in 
 - 🌱 I’m currently learning 
 - 💞  
