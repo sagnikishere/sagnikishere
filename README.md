@@ -30,7 +30,7 @@ Thanks for visiting my GitHub! Feel free to reach out or explore my repositories
 - 👀 
 - 🌱   
 - 💞  
-- 📫 How to reach me 
+- 📫 How to reach me - sagnik25tojo@gmail.com
 
 
 
