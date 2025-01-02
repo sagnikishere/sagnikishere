@@ -11,7 +11,7 @@ Programming Languages: C, Java, Python
 Web Development: HTML, CSS, JavaScript
 Tools: Git, GitHub, Figma, Adobe XD
 Other Technologies: Blockchain, Cloud Computing, Machine Learning
-📈 Projects
+📈 Projects 
 Here are some highlights of my recent work:
 
 Health Besh - A disease prediction web app using blockchain and multilingual support.
