@@ -2,7 +2,7 @@
 Welcome to my GitHub profile! I’m a 2nd-year Electronics and Communication Engineering (ECE) student at the Future Institute of Engineering and Management. I’m passionate about technology, AI, ML, and web development, and I love creating solutions that make a difference.
 
 🌟 About Me
-💼 Currently exploring projects in AI, ML, and cloud technology
+💼 Currently exploring projects in AI, ML, and cloud technology 
 👨‍💻 Logo designer on Fiverr and web developer on Upwork
 📚 Actively learning Java, building on my knowledge of C
 🎨 Experienced in graphic design and video editing
