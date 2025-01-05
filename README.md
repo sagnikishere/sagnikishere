@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I’m a 2nd-year Electronics and Communication Eng
 💼 Currently exploring projects in AI, ML, and cloud technology 
 👨‍💻 Logo designer on Fiverr and web developer on Upwork
 📚 Actively learning Java, building on my knowledge of C
-🎨 Experienced in graphic design and video editing
+🎨 Experienced in graphic design and video editing 
 💻 Tech Stack 
 Programming Languages: C, Java, Python
 Web Development: HTML, CSS, JavaScript 
