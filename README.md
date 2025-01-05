@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I’m a 2nd-year Electronics and Communication Eng
 🎨 Experienced in graphic design and video editing
 💻 Tech Stack 
 Programming Languages: C, Java, Python
-Web Development: HTML, CSS, JavaScript
+Web Development: HTML, CSS, JavaScript 
 Tools: Git, GitHub, Figma, Adobe XD
 Other Technologies: Blockchain, Cloud Computing, Machine Learning
 📈 Projects 
