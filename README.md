@@ -1,7 +1,7 @@
-<h1 align="center">Hey there! 👋 I'm Tojo</h1>
+<h1 align="center"> Hello World! 👋 I'm Sagnik</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=2nd+Year+ECE+Student+at+FIEM;Frontend+Developer+%7C+DSA+Lover+%7C+Lifelong+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=3rd+Year+ECE+Student+at+FIEM;Frontend+Developer+%7C+DSA+Lover+%7C+Lifelong+Learner" alt="Typing SVG" />
 </p>
 
 ---
@@ -67,8 +67,8 @@
 
 ### 📫 Let's Connect!
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/your-profile)  
-- 📧 Email: your.email@gmail.com
+- 🔗 [LinkedIn](https://www.linkedin.com/in/sagnik-adhikary-9a5326273/)  
+- 📧 Email: sagnik25tojo@gmail.com
 
 > “Consistency beats intensity. Code every day.”
 
