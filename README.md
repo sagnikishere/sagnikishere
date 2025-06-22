@@ -41,21 +41,23 @@
 
 ### 🧠 Currently Learning
 
-<div align="center" style="display:flex; align-items:center; justify-content:space-around; flex-wrap:wrap;">
-  
-<div>
-  
-- Advanced **React Hooks** and **Context API**  
-- **Java DSA** and core concepts (Recursion, Trees, DP)  
-- Basic **APIs** & backend integration  
+<table>
+  <tr>
+    <td>
 
-</div>
+<ul>
+  <li>Advanced <strong>React Hooks</strong> and <strong>Context API</strong></li>
+  <li><strong>Java DSA</strong> and core concepts (Recursion, Trees, DP)</li>
+  <li>Basic <strong>APIs</strong> & backend integration</li>
+</ul>
 
-<img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="250" alt="coding-gif" />
+</td>
+<td>
+  <img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="250" alt="coding-gif"/>
+</td>
+</tr>
+</table>
 
-</div>
-
----
 
 ### 📊 GitHub Stats
 
