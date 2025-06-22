@@ -41,9 +41,19 @@
 
 ### 🧠 Currently Learning
 
-- Advanced **React Hooks** and **Context API**
-- **Java DSA** and core concepts (Recursion, Trees, DP)
-- Basic **APIs** & backend integration
+<div align="center" style="display:flex; align-items:center; justify-content:space-around; flex-wrap:wrap;">
+  
+<div>
+  
+- Advanced **React Hooks** and **Context API**  
+- **Java DSA** and core concepts (Recursion, Trees, DP)  
+- Basic **APIs** & backend integration  
+
+</div>
+
+<img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="250" alt="coding-gif" />
+
+</div>
 
 ---
 
@@ -56,15 +66,6 @@
 
 ---
 
-### ✨ Fun Gifs & Motivation
-
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
-  <img src="https://media.giphy.com/media/l1J9EdzfOSgfyueLm/giphy.gif" width="300" />
-</div>
-
----
-
 ### 📫 Let's Connect!
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/sagnik-adhikary-9a5326273/)  
@@ -73,4 +74,3 @@
 > “Consistency beats intensity. Code every day.”
 
 ---
-
