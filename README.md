@@ -1,40 +1,76 @@
-👋 Hello, I'm Sagnik Adhikary
-Welcome to my GitHub profile! I’m a 2nd-year Electronics and Communication Engineering (ECE) student at the Future Institute of Engineering and Management. I’m passionate about technology, AI, ML, and web development, and I love creating solutions that make a difference.
+<h1 align="center">Hey there! 👋 I'm Tojo</h1>
 
-🌟 About Me
-💼 Currently exploring projects in AI, ML, and cloud technology 
-👨‍💻 Logo designer on Fiverr and web developer on Upwork
-📚 Actively learning Java, building on my knowledge of C
-🎨 Experienced in graphic design and video editing 
-💻 Tech Stack 
-Programming Languages: C, Java, Python 
-Web Development: HTML, CSS, JavaScript 
-Tools: Git, GitHub, Figma, Adobe XD
-Other Technologies: Blockchain, Cloud Computing, Machine Learning
-📈 Projects 
-Here are some highlights of my recent work:
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=2nd+Year+ECE+Student+at+FIEM;Frontend+Developer+%7C+DSA+Lover+%7C+Lifelong+Learner" alt="Typing SVG" />
+</p>
 
-Health Besh - A disease prediction web app using blockchain and multilingual support.
-PetCareHub - A website offering pet products, healthcare, daycare, and blood donation services for pets.
-Genomic Data Analysis - A tool for disease prediction based on genomic sequences.
-Local Bus Tracking Web App - My entry for the Smart India Hackathon to help users track buses in real-time.
-🏆 Achievements
-Completed Google AI and Google Cloud Study Jams with certifications.
-Volunteered with GDG events and selected as a committee member in Xplorica, my college’s tech club.
-Participated in hackathons including Hacktonix and internal Smart India Hackathon.
-🔗 Connect with Me 
- 
+---
 
-Thanks for visiting my GitHub! Feel free to reach out or explore my repositories. Let’s  build something amazing together! 🚀
-- 👋 I’m @sagnikishere
-- 👀 
-- 🌱    
-- 💞  
-- 📫 How to reach me - sagnik25tojo@gmail.com
+### 👨‍💻 About Me
 
+- 🎓 **Electronics & Communication Engineering**, FIEM  
+- 💡 Passionate about **Web Development**, **Problem Solving**, and **Open Source**  
+- 💻 Currently learning **React Ecosystem**, mastering **DSA**  
+- 🌱 Always curious to explore new tech  
 
+---
 
-<!---
-sagnikishere/sagnikishere is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 🔧 Tech Stack
+
+<div align="center">
+
+<!-- Frontend -->
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=fff" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000" />
+
+<!-- Backend & Languages -->
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=fff" />
+<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=fff" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=fff" />
+
+<!-- Tools -->
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=fff" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=fff" />
+<img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=fff" />
+
+</div>
+
+---
+
+### 🧠 Currently Learning
+
+- Advanced **React Hooks** and **Context API**
+- **Java DSA** and core concepts (Recursion, Trees, DP)
+- Basic **APIs** & backend integration
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight" />
+</p>
+
+---
+
+### ✨ Fun Gifs & Motivation
+
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
+  <img src="https://media.giphy.com/media/l1J9EdzfOSgfyueLm/giphy.gif" width="300" />
+</div>
+
+---
+
+### 📫 Let's Connect!
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/your-profile)  
+- 📧 Email: your.email@gmail.com
+
+> “Consistency beats intensity. Code every day.”
+
+---
+
