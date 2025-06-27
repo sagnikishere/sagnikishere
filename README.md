@@ -10,7 +10,7 @@
 
 - 🎓 **Electronics & Communication Engineering**, FIEM  
 - 💡 Passionate about **Web Development**, **Problem Solving**, and **Open Source**  
-- 💻 Currently learning **React Ecosystem**, mastering **DSA**  
+- 💻 Currently learning **React**, mastering **DSA**  
 - 🌱 Always curious to explore new tech  
 
 ---
