@@ -1,73 +1,107 @@
-<h1 align="center"> Hello World! 👋 I'm Sagnik</h1>
-  
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=550&lines=3rd+Year+ECE+Student+at+FIEM;Full+Stack+Web+Developer;Graphic+Designer+%26+Marketer" alt="Typing SVG" />
-</p>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Animated Tech Stack</title>
+  <style>
+    body {
+      background-color: #0f172a; /* Dark background to make colors pop */
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      min-height: 100vh;
+      margin: 0;
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }
 
----
+    .stack-container {
+      display: flex;
+      gap: 24px;
+      flex-wrap: wrap;
+      justify-content: center;
+      padding: 20px;
+    }
 
-### 👨‍💻 About Me
+    .tech-card {
+      background: rgba(255, 255, 255, 0.05);
+      backdrop-filter: blur(10px);
+      border: 1px solid rgba(255, 255, 255, 0.1);
+      padding: 20px 40px;
+      border-radius: 16px;
+      color: #ffffff;
+      font-size: 1.2rem;
+      font-weight: 600;
+      letter-spacing: 1px;
+      cursor: pointer;
+      position: relative;
+      overflow: hidden;
+      transition: all 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+      /* Continuous floating animation */
+      animation: float 4s ease-in-out infinite;
+    }
 
-- 🎓 **Electronics & Communication Engineering (3rd Year)** at FIEM  
-- 💻 **Full Stack Web Developer** & **Graphic Designer** - 📈 Experienced in **Digital Marketing** and **Social Media Management** (Ex-Hackence Services)  
-- 🤝 Actively involved in campus communities: **Xplorica**, **GDG on Campus FIEM**, and **Dramebazz** - 📚 Currently diving deep into **C++ (OOP)**, **Computer Architecture**, and **Biomedical Electronics** ---
+    /* Staggered animation delays so they don't move in sync */
+    .tech-card:nth-child(1) { animation-delay: 0s; }
+    .tech-card:nth-child(2) { animation-delay: 0.5s; }
+    .tech-card:nth-child(3) { animation-delay: 1s; }
 
-### 🔧 Tech Stack & Tools
+    /* Hover Effects with Unique Colors */
+    .tech-card:hover {
+      transform: translateY(-15px) scale(1.05);
+      background: rgba(255, 255, 255, 0.1);
+    }
 
-<div align="center">
+    .vercel:hover {
+      box-shadow: 0 10px 30px -10px #ffffff;
+      border-color: #ffffff;
+      color: #ffffff;
+    }
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=fff" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000" />
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000" />
+    .netlify:hover {
+      box-shadow: 0 10px 30px -10px #00C7B7;
+      border-color: #00C7B7;
+      color: #00C7B7;
+    }
+    
+    .react:hover {
+      box-shadow: 0 10px 30px -10px #61DAFB;
+      border-color: #61DAFB;
+      color: #61DAFB;
+    }
 
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=fff" />
-<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=fff" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=fff" />
+    /* Keyframes for the floating effect */
+    @keyframes float {
+      0% { transform: translateY(0px); }
+      50% { transform: translateY(-10px); }
+      100% { transform: translateY(0px); }
+    }
 
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=fff" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=fff" />
-<img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=fff" />
-<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
+    /* Optional: A subtle sweeping shine effect inside the card */
+    .tech-card::before {
+      content: '';
+      position: absolute;
+      top: 0;
+      left: -100%;
+      width: 50%;
+      height: 100%;
+      background: linear-gradient(to right, transparent, rgba(255,255,255,0.1), transparent);
+      transform: skewX(-20deg);
+      transition: 0.5s;
+    }
 
-</div>
+    .tech-card:hover::before {
+      left: 150%;
+    }
+  </style>
+</head>
+<body>
 
----
+  <div class="stack-container">
+    <div class="tech-card react">React</div>
+    <div class="tech-card vercel">Vercel</div>
+    <div class="tech-card netlify">Netlify</div>
+  </div>
 
-### 🧠 Currently Learning & Exploring
-
-<table>
-  <tr>
-    <td>
-
-<ul>
-  <li>Object-Oriented Programming (OOP) in <strong>C++</strong></li>
-  <li>Core ECE concepts: <strong>Computer Architecture</strong> & <strong>Biomedical Electronics</strong></li>
-  <li>Bridging the gap between <strong>Full Stack Development</strong> and <strong>Design</strong></li>
-</ul>
-
-</td>
-<td>
-  <img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="250" alt="coding-gif"/>
-</td>
-</tr>
-</table>
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sagnikishere&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=sagnikishere&theme=tokyonight" />
-</p>
-
----
-
-### 📫 Let's Connect!
-
-- 🔗 [LinkedIn](https://www.linkedin.com/in/sagnik-adhikary-9a5326273/)  
-- 📧 Email: sagnik25tojo@gmail.com
-
-> “Consistency beats intensity. Code every day.”
-
----
+</body>
+</html>
