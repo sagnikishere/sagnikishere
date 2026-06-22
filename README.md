@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hello%20World!%20👋%20I'm%20Sagnik&fontSize=50&fontAlignY=35&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hello%20World!%20%20I'm%20Sagnik&fontSize=50&fontAlignY=35&animation=twinkling" />
 </div>
 
 <p align="center">
@@ -10,12 +10,11 @@
 
 ---
 
-### 👨‍💻 About Me
+###  About Me
 
-- 🎓 **Electronics & Communication Engineering (3rd Year)** at FIEM  
-- 💻 **Full Stack Web Developer** & **Graphic Designer** - 📈 Experienced in **Digital Marketing** and **Social Media Management** (Ex-Hackence Services)  
-- 🤝 Actively involved in campus communities: **Xplorica**, **GDG on Campus FIEM**, and **Dramebazz** - 📚 Currently diving deep into **C++ (OOP)**, **Computer Architecture**, and **Biomedical Electronics** ---
-
+-  **Electronics & Communication Engineering (3rd Year)** at FIEM  
+-  **Full Stack Web Developer** & **Graphic Designer** - 📈 Experienced in **Digital Marketing** and **Social Media Management** (Ex-Hackence Services)  
+-  Actively involved in campus communities: **Xplorica**, **GDG on Campus FIEM**, and **SIT KOLKATA** - 
 ### 🔧 Tech Stack & Tools
 
 <div align="center">
